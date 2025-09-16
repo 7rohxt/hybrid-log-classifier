@@ -1,3 +1,4 @@
 pandas
 scikit-learn
 sentence-transformers
+hf-xet
