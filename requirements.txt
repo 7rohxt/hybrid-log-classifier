@@ -4,4 +4,7 @@ sentence-transformers
 hf-xet
 dotenv
 langchain
-openai
+langchain-openai
+langchain_community
+fastapi
+uvicorn
