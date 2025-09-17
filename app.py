@@ -2,7 +2,7 @@ import pandas as pd
 from fastapi import FastAPI, UploadFile, HTTPException
 from fastapi.responses import FileResponse
 
-from classify import classify
+from main import classify
 
 app = FastAPI()
 
